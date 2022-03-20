@@ -1,7 +1,7 @@
-# Getting Started with Create React App
+# How React App Work(updated)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+## I will react app  read full
 ## Available Scripts
 
 In the project directory, you can run:
